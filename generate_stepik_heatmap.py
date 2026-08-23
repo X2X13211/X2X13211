@@ -4,7 +4,7 @@ import os
 import urllib.request
 
 # Укажи свой цифровой ID на Stepik
-STEPIK_USER_ID = "ТВОЙ_STEPIK_ID"
+STEPIK_USER_ID = "1112467990"
 
 url = f"https://stepik.org/api/user-activities/{STEPIK_USER_ID}"
 req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
