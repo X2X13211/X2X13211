@@ -13,3 +13,24 @@
 
   <!-- Автоматически зацикленная GIF-анимация -->
   <img src="https://github.com/user-attachments/assets/eadef72e-82a0-4de8-89ec-047baf755023" width="800" alt="Terminal Matrix Stream" />
+
+  <br><br>
+
+ ### DEPLOYED REPOSITORIES
+
+  <p align="center">
+    <a href="https://github.com/X2X13211/nextroom">
+      <img src="https://gh-card.dev/repos/X2X13211/nextroom.svg?fullname=&link_target=_blank" width="380" />
+    </a>
+    <a href="https://github.com/X2X13211/free-mtproto-proxy-for-telegram">
+      <img src="https://gh-card.dev/repos/X2X13211/free-mtproto-proxy-for-telegram.svg?fullname=&link_target=_blank" width="380" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/X2X13211/AI-Terminal">
+      <img src="https://gh-card.dev/repos/X2X13211/AI-Terminal.svg?fullname=&link_target=_blank" width="380" />
+    </a>
+  </p>
+
+</div>
