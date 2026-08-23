@@ -1,15 +1,12 @@
 <div align="center">
 
 <p align="center">
-  <!-- Typing SVG перекрашен в 800020 -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer&center=true&width=440&height=45&color=800020&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=800020&text=X2X&fontColor=ffffff&fontSize=80&fontAlignY=40&animation=blink&section=header" width="100%" alt="X2X Header" /> 
 </p>
 
   <!-- Зацикленная матрица (Рамка и свечение: Deep Burgundy) -->
-  <img src="https://github.com/user-attachments/assets/eadef72e-82a0-4de8-89ec-047baf755023" width="800" alt="Terminal Matrix Stream" style="border: 2px solid #800020; border-radius: 12px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4);" />
+  <img src="https://github.com/user-attachments/assets/2f30235c-6755-45b6-955a-4b736fa9200b" width="800" alt="Terminal Matrix Stream" style="border: 2px solid #800020; border-radius: 12px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4);" />
 
-  <br><br>
 
   <p align="center">
     <!-- Бейджи перекрашены в Deep Burgundy (#800020) -->
@@ -22,13 +19,11 @@
   </p>
 
   <p align="center">
-    <!-- Трекер активности (Все тексты, даты и цифры теперь 800020) -->
-    <a href="https://github.com/X2X13211">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=X2X13211&background=1C1C1C&border=800020&ring=800020&fire=800020&currStreakNum=800020&currStreakLabel=800020&sideNums=800020&sideLabels=800020&dates=800020" alt="GitHub Streak" />
-    </a>
-  </p>
+  <!-- Typing SVG перекрашен в 800020 -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer&center=true&width=440&height=45&color=800020&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-  <br>
 
   <p align="center">
   <!-- Ряд 1 (Карточки репозиториев полностью в стиле 800020) -->
@@ -45,16 +40,11 @@
     
 <br/>
 
-<!-- Заголовок тоже перекрашен -->
 <p align="center">
-  <!-- Общая статистика профиля -->
-  <a href="https://github.com/X2X13211">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=X2X13211&show_icons=true&include_all_commits=true&count_private=true&bg_color=1C1C1C&title_color=800020&text_color=800020&border_color=800020&icon_color=800020" height="192px"/>
-  </a>
-  <!-- Статистика языков программирования -->
-  <a href="https://github.com/X2X13211">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=X2X13211&langs_count=6&layout=compact&bg_color=1C1C1C&title_color=800020&text_color=800020&border_color=800020&icon_color=800020" height="192px"/>
-  </a>
-</p>
+    <!-- Трекер активности (Все тексты, даты и цифры теперь 800020) -->
+    <a href="https://github.com/X2X13211">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=X2X13211&background=1C1C1C&border=800020&ring=800020&fire=800020&currStreakNum=800020&currStreakLabel=800020&sideNums=800020&sideLabels=800020&dates=800020" alt="GitHub Streak" />
+    </a>
+  </p>
 
 </div>
