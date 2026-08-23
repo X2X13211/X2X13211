@@ -28,6 +28,8 @@
     </a>
   </p>
 
+  
+
   <!-- Декоративная линия профиля -->
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=800020&section=footer" width="100%" alt="Divider" />
 
@@ -64,41 +66,39 @@
     </a>
   </p>
 
+  <!-- Верхний срез X2X (угол влево) -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&height=130&color=800020&text=X2X&fontColor=ffffff&fontSize=40&fontAlignY=50&animation=fadeIn&section=header" width="100%" alt="Slice Header" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&height=130&color=800020&fontColor=ffffff&fontSize=40&fontAlignY=22&animation=fadeIn&section=header" width="100%" alt="Slice Header" />
   </p>
 
-  <!-- Единый оптимизированный модуль Stepik Telemetry -->
+  <!-- Модуль Stepik Telemetry (корректно закрытая таблица) -->
   <p align="center">
     <table align="center" style="background-color: #1C1C1C; border: 2px solid #800020; border-radius: 12px; padding: 18px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4);">
       <tr>
         <td align="center" style="border: none;">
           <a href="https://stepik.org/users/1112467990" target="_blank">
-            <img src="https://img.shields.io/badge/STEPIK_CORE-PROFILE_UPLINK-800020?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik Link" />
+            <img src="https://img.shields.io/badge/STEPIK-PROFILE-800020?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik Link" />
           </a>
           <br><br>
-          <img src="https://img.shields.io/badge/KNOWLEDGE_SCORE-2450_PTS-800020?style=flat-square&logo=star&logoColor=white" />
+          <img src="https://img.shields.io/badge/SOLVED_TASKS-1600-800020?style=flat-square&logo=check-circle&logoColor=white" alt="Solved Tasks" />
           &#8287;
-          <img src="https://img.shields.io/badge/SOLVED_STEPS-120+_TASKS-800020?style=flat-square&logo=check-circle&logoColor=white" />
+          <img src="https://img.shields.io/badge/CURRENT_STREAK-0_DAYS-800020?style=flat-square&logo=flame&logoColor=white" alt="Current Streak" />
           &#8287;
-          <img src="https://img.shields.io/badge/CERTIFICATES-ACTIVE-800020?style=flat-square&logo=buffer&logoColor=white" />
+          <img src="https://img.shields.io/badge/MAX_STREAK-14_DAYS-800020?style=flat-square&logo=zap&logoColor=white" alt="Max Streak" />
           <br><br>
           <img src="https://raw.githubusercontent.com/X2X13211/X2X13211/main/assets/stepik_heatmap.svg" alt="Stepik Contribution Grid" style="border-radius: 6px;" />
-          <br><br>
-          <img src="https://geps.dev/progress/85?dangerColor=800020&warningColor=800020&successColor=800020" alt="Progress" />
         </td>
       </tr>
     </table>
   </p>
+ 
+
+  <br/>
 
   <p align="center">
-    <a href="https://t.me/Xapt28X">
-      <img src="https://img.shields.io/badge/Telegram-800020?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:vitenikpavel@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=130&color=800020&fontColor=ffffff&fontSize=40&fontAlignY=68&animation=fadeIn&section=footer&reversal=true" width="100%" alt="Slice Footer Reversal" />
+</p>
+
+  <br/>
 
 </div>
