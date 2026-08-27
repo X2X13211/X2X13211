@@ -42,6 +42,12 @@
     <a href="https://github.com/X2X13211/AI-Terminal">
       <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=X2X13211&repo=AI-Terminal&bg_color=1C1C1C&title_color=800020&text_color=800020&border_color=800020&icon_color=800020&show_icons=false" alt="AI-Terminal">
     </a>
+     <a href="https://github.com/X2X13211/Antigravity_fix">
+      <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=X2X13211&repo=Antigravity_fix&bg_color=1C1C1C&title_color=800020&text_color=800020&border_color=800020&icon_color=800020&show_icons=false" alt="Antigravity_fix">
+    </a>
+     <a href="https://github.com/X2X13211/X2X-VPN">
+      <img width="260" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=X2X13211&repo=X2X-VPN&bg_color=1C1C1C&title_color=800020&text_color=800020&border_color=800020&icon_color=800020&show_icons=false" alt="X2X-VPN">
+    </a>
   </p>
 
   <!-- Декоративная линия профиля -->
