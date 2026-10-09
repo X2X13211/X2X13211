@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/Redis-800020?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-800020?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-800020?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-800020?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-800020?style=for-the-badge&logo=git&logoColor=white" />
