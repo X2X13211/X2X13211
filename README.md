@@ -35,17 +35,6 @@
       <img src="https://readme-typing-svg.demolab.com/?lines=Backend%20Web%20App%20developer&center=true&width=440&height=45&color=800020&vCenter=true&pause=1000&size=22" />
     </a>
   </p>
-  
-  <!-- Декоративная линия профиля -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=800020&section=footer" width="100%" alt="Divider" />
-
-  <p align="center">
-    <!-- Трекер активности -->
-    <a href="https://github.com/X2X13211">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=X2X13211&background=1C1C1C&border=800020&ring=800020&fire=800020&currStreakNum=800020&currStreakLabel=800020&sideNums=800020&sideLabels=800020&dates=800020" alt="GitHub Streak" />
-    </a>
-  </p>
-
 
   <!-- Верхний срез X2X (угол влево) -->
   <p align="center">
@@ -81,6 +70,22 @@
     </table>
   </p>
   <br/>
+  <p align="center">
+    <table align="center" style="border: none; background: transparent;">
+      <tr>
+        <td align="center" valign="top" style="background-color: #1C1C1C; border: 2px solid #800020; border-radius: 12px; padding: 18px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4);">
+          <a href="https://github.com/X2X13211" target="_blank">
+            <img src="https://img.shields.io/badge/GITHUB-ACTIVITY-800020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link" />
+          </a>
+          <br><br>
+          <a href="https://github.com/X2X13211">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=X2X13211&background=1C1C1C&ring=800020&fire=800020&currStreakNum=800020&currStreakLabel=800020&sideNums=800020&sideLabels=800020&dates=800020&hide_border=true" alt="GitHub Streak" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </p>
+
 
   <!-- Нижний срез X2X (угол вправо) -->
   <p align="center">
