@@ -53,11 +53,12 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&height=130&color=800020&fontColor=ffffff&fontSize=40&fontAlignY=22&animation=fadeIn&section=header" width="100%" alt="Slice Header" />
   </p>
 
-  <!-- Модуль Stepik Telemetry -->
+  <!-- Модуль Телеметрии: Stepik + LeetCode -->
   <p align="center">
-    <table align="center" style="background-color: #1C1C1C; border: 2px solid #800020; border-radius: 12px; padding: 18px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4);">
-      <tr>
-        <td align="center" style="border: none;">
+    <table align="center" style="border: none; background: transparent; border-collapse: separate; border-spacing: 16px 0;">
+      <tr style="border: none; background: transparent;">
+        <!-- Stepik Telemetry Card -->
+        <td align="center" valign="top" style="background-color: #1C1C1C; border: 2px solid #800020; border-radius: 12px; padding: 18px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4); width: 440px;">
           <a href="https://stepik.org/users/1112467990" target="_blank">
             <img src="https://img.shields.io/badge/STEPIK-PROFILE-800020?style=for-the-badge&logo=stepik&logoColor=white" alt="Stepik Link" />
           </a>
@@ -68,12 +69,18 @@
           &#8287;
           <img src="https://img.shields.io/badge/MAX_STREAK-14_DAYS-800020?style=flat-square&logo=zap&logoColor=white" alt="Max Streak" />
           <br><br>
-          <img src="https://raw.githubusercontent.com/X2X13211/X2X13211/main/assets/stepik_heatmap.svg" alt="Stepik Contribution Grid" style="border-radius: 6px;" />
+          <img src="https://raw.githubusercontent.com/X2X13211/X2X13211/main/assets/stepik_heatmap.svg" alt="Stepik Contribution Grid" style="border-radius: 6px; width: 100%; max-width: 410px;" />
+        </td>
+        <td align="center" valign="top" style="background-color: #1C1C1C; border: 2px solid #800020; border-radius: 12px; padding: 18px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4); width: 440px;">
+          <a href="https://leetcode.com/u/X2X13211/" target="_blank">
+            <img src="https://img.shields.io/badge/LEETCODE-PROFILE-800020?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Link" />
+          </a>
+          <br><br>
+          <img width="100%" src="https://leetcard.jacoblin.cool/X2X13211?theme=dark&font=Fira%20Code&ext=heatmap&border=0&bg_color=1C1C1C" alt="LeetCode Stats" style="border-radius: 6px;" />
         </td>
       </tr>
     </table>
   </p>
-
   <br/>
 
   <!-- Нижний срез X2X (угол вправо) -->
