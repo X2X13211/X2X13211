@@ -26,7 +26,6 @@
   </p>
    </p>
 
-  
   <!-- Счетчик обращений к системе -->
   <img src="https://komarev.com/ghpvc/?username=X2X13211&label=SYSTEM+ACCESS+LOGS&color=800020&style=for-the-badge" alt="Profile views" />
 
@@ -88,21 +87,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&height=130&color=800020&fontColor=ffffff&fontSize=40&fontAlignY=68&animation=fadeIn&section=footer&reversal=true" width="100%" alt="Slice Footer Reversal" />
   </p>
 
-  <!-- Контакты -->
-  <p align="center">
-    <a href="https://t.me/Xapt28X">
-      <img src="https://img.shields.io/badge/Telegram-800020?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    &#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:vitenikpavel@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
 
-  <br/>
-
-  <!-- Декоративная линия перед прощанием -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=800020&section=footer" width="100%" alt="Divider" />
   <!-- Прощальная GIF с бордовой рамкой и неоновым свечением #800020 -->
   <p align="center">
     <img width="800" src="https://github.com/user-attachments/assets/a08d506d-c556-4d32-85d7-ee9701b80ddd" alt="System Goodbye" style="border: 2px solid #800020; border-radius: 12px; box-shadow: 0 0 15px rgba(128, 0, 32, 0.4);" />
